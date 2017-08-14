@@ -26,6 +26,8 @@ html, body, #main {
   color: var(--main-color);
   font-family: "Helvetica", "Arial", sans-serif;
 
+  cursor: default;
+
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -84,7 +86,7 @@ html, body, #main {
 }
 
 .simple .key {
-  font-size: 10rem;
+  font-size: 50vmin;
 }
 
 /******************************************************************************\
